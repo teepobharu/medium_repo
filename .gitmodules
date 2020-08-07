@@ -1,0 +1,6 @@
+[submodule "pipenv"]
+	path = pipenv
+	url = git@github.com:brightdays/pipenv
+[submodule "dockersqlgen"]
+	path = dockersqlgen
+	url = git@github.com:brightdays/dockersqlgen.git
