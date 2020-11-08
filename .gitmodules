@@ -4,3 +4,6 @@
 [submodule "dockersqlgen"]
 	path = dockersqlgen
 	url = git@github.com:brightdays/dockersqlgen.git
+[submodule "docker-whatis"]
+	path = docker-whatis
+	url = git@github.com:brightdays/docker-whatis.git
