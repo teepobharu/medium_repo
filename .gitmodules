@@ -2,5 +2,8 @@
 	path = pipenv
 	url = git@github.com:brightdays/pipenv
 [submodule "dockersqlgen"]
-	path = dockersqlgen
+	path = Docker/dockersqlgen
 	url = git@github.com:brightdays/dockersqlgen.git
+[submodule "docker-practical-compose"]
+	path = Docker/docker-practical-compose
+	url = git@github.com:brightdays/docker-practical-compose.git
