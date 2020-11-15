@@ -7,3 +7,6 @@
 [submodule "docker-practical-compose"]
 	path = Docker/docker-practical-compose
 	url = git@github.com:brightdays/docker-practical-compose.git
+[submodule "docker-whatis"]
+	path = docker-whatis
+	url = git@github.com:brightdays/docker-whatis.git
