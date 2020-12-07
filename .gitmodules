@@ -10,3 +10,6 @@
 [submodule "docker-whatis"]
 	path = docker-whatis
 	url = git@github.com:brightdays/docker-whatis.git
+[submodule "Tools/ultimate-rest-client"]
+	path = Tools/ultimate-rest-client
+	url = git@github.com:brightdays/ultimate-rest-client.git
