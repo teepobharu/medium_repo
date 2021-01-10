@@ -13,3 +13,6 @@
 [submodule "Tools/ultimate-rest-client"]
 	path = Tools/ultimate-rest-client
 	url = git@github.com:brightdays/ultimate-rest-client.git
+[submodule "Docker/simple-docker-compose"]
+	path = Docker/simple-docker-compose
+	url = git@github.com:brightdays/simple-docker-compose.git
