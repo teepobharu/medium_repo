@@ -80,12 +80,12 @@ git commit -m "initial"
 
 # Push to remote
 read -p "Want to also Push ? [Y/y] " isPush
-[[ $isPush ]] && \
+[[ $isPush =~ y|Y ]] && \
 git remote add origin ${repoSite} && \ 
 git push -u origin master || \
 echo "Please run this command to push" && \
 echo "git push -u origin master"
-echo "${repoSite/git@/https://}"
+echo "${${repoSite/git@/https://}/com:/com}"
 
 ## TO COMMENT 
 
